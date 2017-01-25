@@ -185,8 +185,11 @@ ul#menu li a:hover
 { color: #FFF;
   background: #E7746F;}
 
+#sidebar_container
+{ float: right;}
+
 #site_content
-{ width: 880px;
+{ width: 1200px;
   overflow: hidden;
   margin: 20px auto 0 auto;
   padding: 0 0 10px 0;} 
