@@ -189,14 +189,14 @@ ul#menu li a:hover
 { float: right;}
 
 #site_content
-{ width: 100%;
+{ width: 1000px;
   overflow: hidden;
   margin: 20px auto 0 auto;
   padding: 0 0 10px 0;} 
 
 #content
 { text-align: left;
-  width: 620px;
+  width: 300px;
   padding: 0 0 0 5px;
   float: left;}
   
