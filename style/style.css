@@ -189,7 +189,7 @@ ul#menu li a:hover
 { float: right;}
 
 #site_content
-{ width: 1200px;
+{ width: 100%;
   overflow: hidden;
   margin: 20px auto 0 auto;
   padding: 0 0 10px 0;} 
